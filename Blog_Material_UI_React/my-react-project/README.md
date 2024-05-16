@@ -1,6 +1,5 @@
-# Blogging Platform
+# AI-Based Blogging Platform
 
-# CSP 587: Blog Management System - Assignment by [Shubham Gupta]
 
 ## Specifications
 
