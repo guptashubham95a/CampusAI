@@ -1,0 +1,20 @@
+{
+  "engineName": "search",
+  "endpointBase": "https://0627f313e7d747d6aaeff348d2bc7bc2.ent-search.us-central1.gcp.cloud.es.io",
+  "searchKey": "search-7v4w4yanbnzd2xnjwr2frwrf",
+  "resultFields": [
+    "blogId",
+    "categories",
+    "category",
+    "date",
+    "description",
+    "name",
+    "id"
+  ],
+  "sortFields": ["date"],
+  "facets": ["category"],
+  "titleField": "name",
+  "blogIdField": "blogId",
+  "urlField": "imageURL",
+  "thumbnailField": "imageURL"
+}
