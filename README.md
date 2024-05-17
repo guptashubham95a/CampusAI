@@ -16,11 +16,68 @@ This project implements a blog management system using React.js and Material-UI.
 
 - **User Roles Authentication**: log in, and log out securely(Student, Faculty, Staff, Moderator, and Administrator).
 - **Create Blog Posts**: Authenticated users can create new blog posts with a title, description, and image, categories.
+
+- **Push Notifications**: The sendEmail API is utilized for push notifications, sending notifications to users for new blog posts, updates,likes or subscriptions. This feature enhances user engagement and keeps users informed about relevant content and updates.
+
 - **View/Reply/Delete Blog Posts**: Users can view/reply to all blog posts on the homepage, with featured posts displayed prominently.
 - Moderators can delete blog posts.
 - **Filter Blog Posts by Categories**: Users can view all blog posts on the homepage, by filtering categories.
 - **Manage Users**: Administrators can manage user accounts, including updating roles and flagging users.
 - **Responsive Design**: The application is fully responsive, providing an optimal viewing experience across a wide range of devices.
+
+## Output
+
+<table>
+  <tr>
+    <td>Home Page</td>
+     <td>New Post</td>
+  </tr>
+  <tr>
+    <td><img src="assets/images/homepage.png" width=500 height=300></td>
+    <td><img src="assets/images/newpost.png" width=500 height=300></td>
+  </tr>
+ </table>
+
+ <table>
+  <tr>
+    <td>AI Reply For Posts</td>
+     <td>Search Post</td>
+  </tr>
+  <tr>
+    <td><img src="assets/images/AI-reply.png" width=500 height=300></td>
+    <td><img src="assets/images/search.png" width=500 height=300></td>
+  </tr>
+ </table>
+ <table>
+  <tr>
+     <td>AI Recommendations for events</td>
+     <td>Events timings</td>
+  </tr>
+  <tr>
+    <td><img src="assets/images/map.png" width=500 height=300></td>
+    <td><img src="assets/images/map2.png" width=500 height=300></td>
+  </tr>
+ </table>
+ <table>
+  <tr>
+     <td>AI Recommendations Data</td>
+     <td>User Management</td>
+  </tr>
+  <tr>
+    <td><img src="assets/images/maptextfieldresp.png" width=500 height=300></td>
+    <td><img src="assets/images/user-management-enable.png" width=500 height=300></td>
+  </tr>
+ </table>
+ <table>
+  <tr>
+     <td>ElasticSearch Database for Subscription</td>
+     <td>ElasticSearch Database for Posts</td>
+  </tr>
+  <tr>
+    <td><img src="assets/images/ealstic-searchdb.png" width=500 height=300></td>
+    <td><img src="assets/images/ealstic-searchdb1.png" width=500 height=300></td>
+  </tr>
+ </table>
 
 ## To run the code
 
